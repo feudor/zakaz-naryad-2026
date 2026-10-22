@@ -2,7 +2,7 @@
   "product": "zakaz-naryad-2026",
   "environment": "production",
   "release": "NOT SET",
-  "source_commit_sha": "2d3a61c598fee22a0104af52b55bad84afb1d4ca",
-  "artifact_digest": "sha256:9fa98ff474fa180a1202035ea206c4ee41ace82b200c2ef0a287e9976314bdfb",
-  "built_at": "2026-10-22T12:28:41Z"
+  "source_commit_sha": "17e67e7c26e2ad9e3dcdfcf194f9f0c0ac5a61b9",
+  "artifact_digest": "sha256:1464c88638dac7ffe36d751cc4a02a9f1b8dbe92b3ad250667ab42ad87ab3b09",
+  "built_at": "2026-10-22T12:57:41Z"
 }
